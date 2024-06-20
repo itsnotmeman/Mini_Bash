@@ -11,7 +11,7 @@ sudo apt-get install libreadline-dev
 ```
 
 2.
-In the root directory type "*make*".
-To start the minibash, type "*./minibash*".
-To exit minibash, type "*exit*".
-To delete all binary files, type "*make fclean*".
+In the root directory type "*make*".<br>
+To start the minibash, type "*./minibash*".<br>
+To exit minibash, type "*exit*".<br>
+To delete all binary files, type "*make fclean*".<br>
